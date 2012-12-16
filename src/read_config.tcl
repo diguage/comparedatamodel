@@ -5,6 +5,10 @@
 # 
 # **  修改人员：李君（Nickname：D瓜哥；Website：http://www.diguage.com/）
 # **  修改日期：2012-3-19
+#
+# **  Copyright (c) 2012-2012 D瓜哥，http://www.diguage.com/
+# **  Licensed under the Apache License, Version 2.0 (the "License");
+# 
 
 global cfg
 set fid [open "$absoluteParentPath//config//config.txt" r]

@@ -5,6 +5,10 @@
 #
 # **  修改人员：
 # **  修改日期：
+#
+# **  Copyright (c) 2012-2012 D瓜哥，http://www.diguage.com/
+# **  Licensed under the Apache License, Version 2.0 (the "License");
+#
 
 #!/bin/sh
 # compar.tcl \
