@@ -7,7 +7,7 @@
 # **  修改日期：2012-3-19
 
 global cfg
-set fid [open "$absoluteParentPath//src//config.txt" r]
+set fid [open "$absoluteParentPath//config//config.txt" r]
 while {[eof  $fid] != 1} {
 	set curLine [gets $fid]
 	# 遇到空行或者以#开头的行，忽略
